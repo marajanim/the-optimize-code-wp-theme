@@ -3037,3 +3037,5 @@ html.site-loading,html.site-loading body { overflow:hidden!important; }
   .site-loader::after { display:none; }
   .site-loader,.site-loader * { animation:none!important;transition-duration:1ms!important; }
 }
+
+/* Layout spacing tokens reviewed */
